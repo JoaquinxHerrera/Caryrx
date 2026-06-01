@@ -1,0 +1,17 @@
+<svg width="95" height="60" viewBox="0 0 95 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="95" height="59.375" rx="5.30394" transform="matrix(1 0 0 -1 0 59.375)" fill="url(#paint0_linear_941_4154)"/>
+<g style="mix-blend-mode:multiply">
+<path d="M15.5059 0.969177L15.5059 58.1533" stroke="#02B0FF" stroke-width="0.738057" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="2.31 4.63"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<circle cx="64.0001" cy="40.2542" r="7.25985" transform="rotate(90 64.0001 40.2542)" stroke="#02B0FF" stroke-width="0.925325" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="42.6173" cy="18.8685" r="7.25985" transform="rotate(90 42.6173 18.8685)" stroke="#02B0FF" stroke-width="0.925325" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="37.2695" y1="45.1993" x2="68.6934" y2="13.7755" stroke="#02B0FF" stroke-width="0.925325" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_941_4154" x1="47.5" y1="-15.9195" x2="47.5" y2="172.123" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.697917" stop-color="#40C0FA"/>
+</linearGradient>
+</defs>
+</svg>
