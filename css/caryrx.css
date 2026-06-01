@@ -7,6 +7,9 @@
   --light-slate-grey: #8089a2;
 }
 
+body{
+  overflow-x: hidden;
+}
 .w-layout-grid {
   grid-row-gap: 16px;
   grid-column-gap: 16px;
